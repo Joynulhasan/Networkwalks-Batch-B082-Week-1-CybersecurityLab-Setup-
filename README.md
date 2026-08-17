@@ -72,6 +72,7 @@ The virtual network provides an isolated environment where cybersecurity tools a
 
 VMware Workstation was installed and configured as the virtualization platform for the cybersecurity lab.
 
+VMware Workstation: https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
 
 ![VMware Setup](screenshots/01-vmware-setup.png)
 
@@ -80,7 +81,7 @@ VMware Workstation was installed and configured as the virtualization platform f
 ## 2. Kali Linux Installation
 
 Kali Linux was installed as the primary security testing machine.
-Kali Linux: https://kali.org/get-kali
+
 Kali Linux provides a wide range of tools for:
 
 * Network analysis
@@ -88,7 +89,7 @@ Kali Linux provides a wide range of tools for:
 * Penetration testing
 * Digital forensics
 * Security testing
-
+Kali Linux: https://kali.org/get-kali
 
 ![Kali Linux](screenshots/02-kali-installation.png)
 
