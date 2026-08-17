@@ -72,7 +72,6 @@ The virtual network provides an isolated environment where cybersecurity tools a
 
 VMware Workstation was installed and configured as the virtualization platform for the cybersecurity lab.
 
-**Screenshot:**
 
 ![VMware Setup](screenshots/01-vmware-setup.png)
 
