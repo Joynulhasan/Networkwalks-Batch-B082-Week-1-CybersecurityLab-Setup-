@@ -80,7 +80,7 @@ VMware Workstation was installed and configured as the virtualization platform f
 ## 2. Kali Linux Installation
 
 Kali Linux was installed as the primary security testing machine.
-
+Kali Linux: https://kali.org/get-kali
 Kali Linux provides a wide range of tools for:
 
 * Network analysis
@@ -89,7 +89,6 @@ Kali Linux provides a wide range of tools for:
 * Digital forensics
 * Security testing
 
-**Screenshot:**
 
 ![Kali Linux](screenshots/02-kali-installation.png)
 
@@ -99,7 +98,6 @@ Kali Linux provides a wide range of tools for:
 
 A custom NAT network was configured in VMware to provide network connectivity to the virtual machine while keeping the lab environment separated from the physical network.
 
-**Screenshot:**
 
 ![NAT Network](screenshots/03-nat-network.png)
 
@@ -121,7 +119,6 @@ Routing information was checked using:
 ip route
 ```
 
-**Screenshot:**
 
 ![IP Configuration](screenshots/04-kali-ip-config.png)
 
