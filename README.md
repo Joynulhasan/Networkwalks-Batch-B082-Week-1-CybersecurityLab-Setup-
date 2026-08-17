@@ -137,37 +137,12 @@ ping -c 4 8.8.8.8
 
 Successful responses confirmed that the Kali Linux VM could communicate through the configured NAT network.
 
-**Screenshot:**
-
-![Network Connectivity](screenshots/05-network-connectivity.png)
-
----
-
-## 6. DNS Resolution Test
-
-DNS functionality was verified using:
-
-```bash
-ping -c 4 google.com
-```
-
-This confirmed that both network connectivity and DNS resolution were working correctly.
-
-**Screenshot:**
-
-![DNS Test](screenshots/06-dns-test.png)
-
----
 
 ## 7. VM Snapshot
 
 After completing the configuration, a clean VMware snapshot was created.
 
 The snapshot provides a recovery point that can be restored if future penetration testing activities change or damage the virtual machine configuration.
-
-**Screenshot:**
-
-![VM Snapshot](screenshots/07-vm-snapshot.png)
 
 ---
 
